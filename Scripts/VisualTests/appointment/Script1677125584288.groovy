@@ -52,5 +52,6 @@ WebUI.takeScreenshotAsCheckpoint('appointment_conf')
 
 WebUI.closeBrowser()
 
-//test
+
+
 
