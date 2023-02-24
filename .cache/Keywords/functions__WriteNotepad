@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "F250157FF5CC1DB02F49EA9C7198C0CE",
+  "keywordClasses": [
+    {
+      "name": "functions.WriteNotepad",
+      "keywordMethods": [
+        {
+          "name": "writeNotepad",
+          "parameters": [
+            {
+              "name": "SKU",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

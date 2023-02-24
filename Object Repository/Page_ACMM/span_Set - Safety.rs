@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Set - Safety</name>
+   <tag></tag>
+   <elementGuidId>1aa307b7-346e-4631-9fa3-e47fb022ec4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='set_all_safety_stock']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.agr-display-inline.cry-fnt2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5e9932c3-5439-4470-8c9e-32169e83841b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-display-inline cry-fnt2</value>
+      <webElementGuid>0805366e-1c86-43e9-9077-7dd067ee5a85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Set</value>
+      <webElementGuid>07ab8876-5e14-4dac-97e4-68e76491ce78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;set_all_safety_stock&quot;)/span[@class=&quot;agr-display-inline cry-fnt2&quot;]</value>
+      <webElementGuid>0171bfb0-3eff-4bfd-95a3-95703fdb9b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='set_all_safety_stock']/span</value>
+      <webElementGuid>7d16bd19-5b94-4ed0-8267-e19a1dbf84ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Safety Stock'])[1]/following::span[1]</value>
+      <webElementGuid>b8e4746f-6cec-418c-b94f-72306e164e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COCONUT SHAMPOO'])[1]/following::span[1]</value>
+      <webElementGuid>8f4e4c5b-6d1e-4ecf-8f69-54a1b4f5b345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reorder Qty.'])[1]/preceding::span[1]</value>
+      <webElementGuid>293245a8-e706-4404-89db-1f1e8fb68293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set'])[2]/preceding::span[1]</value>
+      <webElementGuid>dded3bb9-e3eb-43cd-9704-eef0278b56a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Set']/parent::*</value>
+      <webElementGuid>b436868e-4e13-4e28-88d5-eb6ebefe31f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>0f876f3f-cdd0-4c2c-87a8-b5096c6fc981</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Set' or . = 'Set')]</value>
+      <webElementGuid>b9121276-1f6f-414d-aa9d-8e0156067b7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

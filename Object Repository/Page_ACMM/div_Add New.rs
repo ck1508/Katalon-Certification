@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add New</name>
+   <tag></tag>
+   <elementGuidId>d6a2bc1b-99e3-44ec-bc92-8e8936f459ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='add']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>86eab097-4464-49b3-9211-d8ba2f8b1479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>6ee56fc7-8b4e-42bc-bedc-6d2b98467f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-display-inline agr-primary-btn</value>
+      <webElementGuid>d6a22567-57fa-4caf-81d0-f8248c8404a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New</value>
+      <webElementGuid>da774926-3fc3-4163-a7f5-a2532373cc52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add&quot;)</value>
+      <webElementGuid>fcde6027-1293-4487-aa78-af0485c5b1cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='add']</value>
+      <webElementGuid>9a7d7da5-e014-4e04-9b50-4c83e96fe696</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='agr_breadcrumbs_action_container']/div</value>
+      <webElementGuid>f7878406-16d1-4174-8cae-17b7f34e69fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HomeItemRegistrationItem'])[1]/following::div[2]</value>
+      <webElementGuid>e4829df5-e0d3-46f0-97bf-769af1e31104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='charu'])[1]/following::div[5]</value>
+      <webElementGuid>5eef5179-f04b-44c0-82a8-b8946abd48ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Setting'])[1]/preceding::div[3]</value>
+      <webElementGuid>fd9b06d5-7672-4810-8d11-09ef68f019e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div</value>
+      <webElementGuid>91302fb6-29db-4782-95b5-94a6e24ac08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'add' and (text() = 'Add New' or . = 'Add New')]</value>
+      <webElementGuid>b0bb9ba1-7e44-416e-aaf6-e4320cd5751e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

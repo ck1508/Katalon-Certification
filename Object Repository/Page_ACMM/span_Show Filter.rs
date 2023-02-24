@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show Filter</name>
+   <tag></tag>
+   <elementGuidId>c0f35cbe-017c-435c-b730-c622f5913289</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='agr_open_filter_side']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.tpz-fnt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b8705467-b960-4414-ae81-07e92b1a7fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tpz-fnt-2</value>
+      <webElementGuid>434eb369-1f8d-4ffd-b5b3-bf15e6d69d8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show Filter</value>
+      <webElementGuid>6426cf3d-96f2-4acb-94dd-b5f871917584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agr_open_filter_side&quot;)/span[@class=&quot;tpz-fnt-2&quot;]</value>
+      <webElementGuid>48616a36-fbd4-4404-b7dc-5a1a474062db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='agr_open_filter_side']/span</value>
+      <webElementGuid>8714029e-ab23-4659-87c2-9664c1efffdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::span[1]</value>
+      <webElementGuid>18edd057-a577-4fdd-b273-b5fb29345063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='items found'])[1]/following::span[1]</value>
+      <webElementGuid>21d0288a-18f8-486c-ad28-a46d5d9e2886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WEIGHING ITEM FADH 211'])[1]/preceding::span[2]</value>
+      <webElementGuid>84a4a204-9e2a-4a4a-9e14-453b782a33a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Variants:'])[1]/preceding::span[3]</value>
+      <webElementGuid>ec71e18f-94e5-4903-8e99-00a62f73d668</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show Filter']/parent::*</value>
+      <webElementGuid>bc3a8bb3-566b-43c7-9687-22a132578467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table/div/div/div[2]/a/span</value>
+      <webElementGuid>42721f8b-2b5b-4535-8c60-f19431ecbc72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show Filter' or . = 'Show Filter')]</value>
+      <webElementGuid>e9835a87-75ea-425c-a332-63148661b8f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

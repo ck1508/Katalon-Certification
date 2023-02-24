@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_PROFIT Menu_td-menuheader-bold</name>
+   <tag></tag>
+   <elementGuidId>67466a1d-e0df-4b5a-afb8-876772768731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[@class=', '&quot;', 'td-menuheader-bold', '&quot;', ']')])[1]/preceding::td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>443b093f-0fe7-4b4e-9753-57e9ccb73bef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>td-menuheader-bold</value>
+      <webElementGuid>30c10af1-8349-4bfc-a3c4-bff39b9d8efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>8f181566-a90e-4bed-bbb5-3a6cbdfbfdc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[@class=&quot;td-menuheader-bold&quot;]</value>
+      <webElementGuid>2465ea07-890a-45fb-bc31-e59658b21146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/AVN SIT/Page_PROFIT/frame_concat(id(, , menu, , )frame1)_MenuHeader</value>
+      <webElementGuid>4a425d24-a4f6-4382-b580-5cb2a7c5320e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('/html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[@class=', '&quot;', 'td-menuheader-bold', '&quot;', ']')])[1]/preceding::td[4]</value>
+      <webElementGuid>0c40012e-258a-4228-8433-053517ce130a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>ca0c192f-2fc1-4037-8725-c1a498db2f70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

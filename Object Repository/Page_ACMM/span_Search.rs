@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search</name>
+   <tag></tag>
+   <elementGuidId>9025ce60-5089-41c5-beca-33a676be469a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='inquiry_search']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.agr-display-inline.cry-fnt2.agr-margin-left-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>80846d9f-f6df-4260-92d5-ebb0b41b7fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-display-inline cry-fnt2 agr-margin-left-5</value>
+      <webElementGuid>1e58ec2a-2dab-46c7-bd18-9fbee460bf07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>057b027e-dc59-46db-ba24-65346a629427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inquiry_search&quot;)/span[@class=&quot;agr-display-inline cry-fnt2 agr-margin-left-5&quot;]</value>
+      <webElementGuid>48dd12aa-9b79-4a36-a957-a04040fd5dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='inquiry_search']/span</value>
+      <webElementGuid>ab094302-29f8-4fff-8b8b-e59e1560b5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show Less'])[1]/following::span[1]</value>
+      <webElementGuid>5e9957ac-e37e-47d9-bf67-d3c4d092b17f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show More'])[1]/following::span[2]</value>
+      <webElementGuid>b23b4a07-ace5-423a-a2ec-cd9759312f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear Filter'])[1]/preceding::span[1]</value>
+      <webElementGuid>27164189-dbb3-475d-a9a1-ff26c9656998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Supplier'])[5]/preceding::span[2]</value>
+      <webElementGuid>fdb6f200-cfb7-40ea-9888-5a2d7f2a5335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>94166099-0590-416b-8429-a30ec8b013ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/span</value>
+      <webElementGuid>a7b57b22-0d4d-45c8-980c-a7f7cd01230c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>1ea6aaee-b0b1-408a-b522-784e3691b6a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
