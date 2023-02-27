@@ -49,7 +49,7 @@ WebUI.click(findTestObject('Object Repository/Page_ACMM/input_Class_itemHierarch
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ACMM/select_MandatoryGeneralWeighingVariantsPost_d44cf2'), 
     'A', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Item Description_itemNameForm.productName'), 'SHAMPOO TEST 7')
+WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Item Description_itemNameForm.productName'), 'SCENTED SHAMPOO TEST 1')
 
 WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Procurement Officer_itemNameForm.buye_7cac70'), 'CHARU')
 
@@ -124,7 +124,7 @@ String SKU = WebUI.getText(findTestObject('Object Repository/Page_ACMM/span_1000
 
 System.out.println(('\nNewly created item : ' + SKU) + '\n')
 
-CustomKeywords.'functions.WriteNotepad.writeNotepad'(SKU)
+//CustomKeywords.'functions.WriteNotepad.writeNotepad'(SKU)
 
 WebUI.click(findTestObject('Object Repository/Page_ACMM/span_Cancel'))
 

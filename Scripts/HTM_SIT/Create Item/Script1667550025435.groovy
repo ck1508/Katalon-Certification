@@ -117,7 +117,7 @@ String SKU = WebUI.getText(findTestObject('Object Repository/Page_ACMM/span_1000
 
 System.out.println(('\nNewly created item : ' + SKU) + '\n')
 
-CustomKeywords.'functions.WriteNotepad.writeNotepad'(SKU)
+//CustomKeywords.'functions.WriteNotepad.writeNotepad'(SKU)
 
 WebUI.click(findTestObject('Object Repository/Page_ACMM/span_Cancel'))
 
