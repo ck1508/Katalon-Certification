@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Charukeshi_agr-display-inline icon-settin_f72da6</name>
+   <tag></tag>
+   <elementGuidId>2ee71d3d-c470-4f61-a39f-bfeeb7ace60f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='agr_account_setting_btn']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.agr-display-inline.icon-settings.tpz-fnt2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>23b7de50-7d7a-40be-a735-61d1a75c3845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-display-inline icon-settings tpz-fnt2</value>
+      <webElementGuid>668ed510-fc4f-49ac-b7a1-cd32bab6a6bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;agr_account_setting_btn&quot;)/i[@class=&quot;agr-display-inline icon-settings tpz-fnt2&quot;]</value>
+      <webElementGuid>c771ee9d-d8d7-4bb8-b8a3-610ecc0dd54f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='agr_account_setting_btn']/i</value>
+      <webElementGuid>2c2ec259-ab7d-4d0e-a38e-bd286ff96eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/i</value>
+      <webElementGuid>7597fcc2-80d2-4c60-b4a2-04ba9683bcba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

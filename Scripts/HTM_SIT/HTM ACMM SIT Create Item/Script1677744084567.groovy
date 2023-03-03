@@ -55,7 +55,7 @@ WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Procurement Offi
 
 WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'))
 
-WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'), '396')
+//WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'), '396')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ACMM/select_MandatoryHQ Main WHHQ Sub WHSub WH O_9c4e63'), 
     'Y', true)

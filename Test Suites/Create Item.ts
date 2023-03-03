@@ -15,7 +15,7 @@
       <guid>2fdeaeea-db11-4274-8768-19c4ffae97e9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HTM_SIT/HTM ACMM SIT Login</testCaseId>
+      <testCaseId>Test Cases/HTM_SIT/HTM ACMM SIT Create Item</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
