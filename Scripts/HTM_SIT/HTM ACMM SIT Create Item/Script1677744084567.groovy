@@ -49,13 +49,13 @@ WebUI.click(findTestObject('Object Repository/Page_ACMM/input_Class_itemHierarch
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ACMM/select_MandatoryGeneralWeighingVariantsPost_d44cf2'), 
     'A', true)
 
-WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Item Description_itemNameForm.productName'), 'SCENTED SHAMPOO TEST 1')
+WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Item Description_itemNameForm.productName'), 'SCENTED SHAMPOO TEST 2')
 
 WebUI.setText(findTestObject('Object Repository/Page_ACMM/input_Procurement Officer_itemNameForm.buye_7cac70'), 'CHARU')
 
 WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'))
 
-//WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'), '396')
+WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/Page_Login/Brand'), '396')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ACMM/select_MandatoryHQ Main WHHQ Sub WHSub WH O_9c4e63'), 
     'Y', true)
