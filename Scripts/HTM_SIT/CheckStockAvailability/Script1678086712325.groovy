@@ -34,112 +34,130 @@ WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Pag
 WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/div_Stock Availability'))
 
 try {
+	
+		String item = item
+		String store = store
+		String businessUnit = businessUnit
+		String region = region
+		String priceZone = priceZone	
+		
+		if (item.length() == 5) {
+			
+			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Item Code_select2-search__field'),
+				item)
+		
+			WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Item Code_select2-search__field'),
+				Keys.chord(Keys.ENTER))
+		}
+		
+		if (store.length() == 4) {
+			
+			
+			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Store_select2-search__field'),
+				store)
+		
+			WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Store_select2-search__field'),
+				Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Item Code_select2-search__field'), 
-    '41001')
+		}
+		
+		if (businessUnit.length() == 2) {
+	
+			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Business Unit_select2-search__field'),
+				businessUnit)
+		
+			WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Business Unit_select2-search__field'),
+				Keys.chord(Keys.ENTER))
 
-WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Item Code_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
+		}
+		
+		if (region.length() == 3) {
+		
+			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Region_select2-search__field'),
+				region)
+			
+			WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Region_select2-search__field'),
+				Keys.chord(Keys.ENTER))
 
-WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Store_select2-search__field'), 
-    '0001')
+		}
+		
+		if (priceZone.length() == 1) {
+			
+			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Price Zone_select2-search__field'),
+				priceZone)
+			
+			WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Price Zone_select2-search__field'),
+				Keys.chord(Keys.ENTER))
 
-WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Store_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
+		}
+			
 
+    WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/span_Search'))
 
-WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Business Unit_select2-search__field'), 
-    '10')
+    String Head1 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Inventory'))
 
-WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Business Unit_select2-search__field'), 
-    Keys.chord(Keys.ENTER))
+    String Val1 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
 
-//WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Region_select2-search__field'),
-//	'')
-//
-//WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Region_select2-search__field'),
-//	Keys.chord(Keys.ENTER))
-//
-//WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Price Zone_select2-search__field'),
-//	'')
-//
-//WebUI.sendKeys(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Price Zone_select2-search__field'),
-//	Keys.chord(Keys.ENTER))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head1, Val1)
 
-WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/span_Search'))
+    String Head2 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Hand'))
 
-String Head1 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Inventory'))
+    String Val2 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
 
-String Val1 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head2, Val2)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head1, Val1)
+    String Head3 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Order'))
 
-String Head2 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Hand'))
+    String Val3 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_56.000000'))
 
-String Val2 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head3, Val3)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head2, Val2)
+    String Head4 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Forecast'))
 
-String Head3 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Order'))
+    String Val4 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_6.000000'))
 
-String Val3 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_56.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head4, Val4)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head3, Val3)
+    String Head5 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Allocated'))
 
-String Head4 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Forecast'))
+    String Val5 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_0.000000'))
 
-String Val4 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_6.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head5, Val5)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head4, Val4)
+    String Head6 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Available'))
 
-String Head5 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Allocated'))
+    String Val6 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
 
-String Val5 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_0.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head6, Val6)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head5, Val5)
+    String Head7 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Order Allocation To Store'))
 
-String Head6 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Available'))
+    String Val7 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_6.000000'))
 
-String Val6 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_40.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head7, Val7)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head6, Val6)
+    String Head8 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Available To Promise'))
 
-String Head7 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity On Order Allocation To Store'))
+    String Val8 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_96.000000'))
 
-String Val7 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_6.000000'))
+    CustomKeywords.'functions.Print.GetStockAvailability'(Head8, Val8)
 
-CustomKeywords.'functions.Print.GetStockAvailability'(Head7, Val7)
+    CustomKeywords.'functions.Print.PrintStockAvailability'()
 
-String Head8 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/th_Quantity Available To Promise'))
-
-String Val8 = WebUI.getText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/td_96.000000'))
-
-CustomKeywords.'functions.Print.GetStockAvailability'(Head8, Val8)
-
-CustomKeywords.'functions.Print.PrintStockAvailability'()
 
 }
-
 catch (Exception e) {
-	
-	System.out.println('\nItem not Found\n')
-	
-	WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/body_Home                                  _72c581'))
+    System.out.println('\nItem not Found\n')
 
-	WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/i_Charukeshi_agr-display-inline icon-settin_f72da6'))
+    WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/body_Home                                  _72c581'))
 
-	WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/a_Logout'))
+    WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/i_Charukeshi_agr-display-inline icon-settin_f72da6'))
 
-	WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/a_Proceed'))
+    WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/a_Logout'))
 
-	
+    WebUI.click(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/a_Proceed'))
+} 
+finally { 
+    WebUI.closeBrowser()
 }
-
-finally {
-	
-	WebUI.closeBrowser()
-}
-
-//test
-
 

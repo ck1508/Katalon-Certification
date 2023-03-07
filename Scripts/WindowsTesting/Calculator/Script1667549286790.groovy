@@ -61,7 +61,7 @@ String output = driver.findElement(By.id('CalculatorResults')).getAttribute('Nam
 
 System.out.println('Result after addition is: ' + output)
 
-//driver.quit();
+driver.findElement(By.name('Close')).click()
 
 
 

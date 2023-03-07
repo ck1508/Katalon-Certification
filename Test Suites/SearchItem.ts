@@ -17,5 +17,35 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/HTM_SIT/CheckStockAvailability</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>634f06c1-bccc-45e1-aef6-9db3bab09d9f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f6abe7e5-880e-4466-bead-169b3d529edd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>173e3e3f-e805-4271-baec-ba034331274e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>59a00158-f899-4265-b75f-2cc5661c6a8f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4e2d53ce-22cd-4f3b-bddd-f5b82a1f2a71</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

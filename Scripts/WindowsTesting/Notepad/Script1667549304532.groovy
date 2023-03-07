@@ -51,15 +51,15 @@ Thread.sleep(1000)
 
 driver.findElement(By.name('Text Editor')).sendKeys("I am an Automation Engineer")
 
-Thread.sleep(1000)
-
-driver.SendKeys.("{ENTER}");
-
-Thread.sleep(1000)
-
-driver.findElement(By.name('Text Editor')).sendKeys("Haha")
-
-Thread.sleep(1000)
+//Thread.sleep(1000)
+//
+//driver.SendKeys.("{ENTER}");
+//
+//Thread.sleep(1000)
+//
+//driver.findElement(By.name('Text Editor')).sendKeys("Haha")
+//
+//Thread.sleep(1000)
 
 driver.findElement(By.name('File')).click()
 
