@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password_agr-login-form-input agr-form-_d8e33f</name>
+   <tag></tag>
+   <elementGuidId>6e17fa4c-3ac9-4143-a613-e852ffb698f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_form']/div/form/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.agr-login-form-input.agr-form-input.agr-display-flex</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>04f6c24c-07fc-4a7b-947a-df9962100062</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-login-form-input agr-form-input agr-display-flex</value>
+      <webElementGuid>41caf33b-76c8-41a1-b527-83120a434b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_form&quot;)/div[1]/form[@class=&quot;m-t&quot;]/div[@class=&quot;agr-form-group5&quot;]/div[@class=&quot;agr-login-form-input agr-form-input agr-display-flex&quot;]</value>
+      <webElementGuid>5f4ca069-8a33-4655-8ea5-97d6cf6ab6f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_form']/div/form/div[3]/div</value>
+      <webElementGuid>3a7fcd48-8977-4aab-9d71-4cad5f935d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[2]</value>
+      <webElementGuid>12fd8c41-6cae-4eda-91b2-04a1e8de8356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User ID'])[1]/following::div[3]</value>
+      <webElementGuid>53aef21d-d72e-43c9-ae9b-cd51186a69d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Need help?'])[1]/preceding::div[1]</value>
+      <webElementGuid>5e5625b9-73fe-498c-8727-ac20a79be88f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::div[1]</value>
+      <webElementGuid>b1affb0c-efdc-46ad-b906-cb2570701321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div</value>
+      <webElementGuid>6cb9c401-6546-4209-9c4e-ba8aa7bdc59d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

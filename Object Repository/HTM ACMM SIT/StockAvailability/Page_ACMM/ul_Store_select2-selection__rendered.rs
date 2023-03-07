@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Store_select2-selection__rendered</name>
+   <tag></tag>
+   <elementGuidId>2102f952-e445-4c45-a2c4-44b03cadf43a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--focus > span.selection > span.select2-selection.select2-selection--multiple > ul.select2-selection__rendered</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'search_store']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search_form']/div/div/div[2]/div[2]/div[2]/div/span/span/span/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>54ca232f-504c-489c-9450-c305d73cb6e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>daa55f3a-49a9-4b5a-8217-439b19ecf081</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_form&quot;)/div[@class=&quot;agr-filter-form-cotainer row agr-destroy-margin&quot;]/div[@class=&quot;agr-width-hundred&quot;]/div[@class=&quot;row agr-destroy-margin agr-margin-between-row agr-padding-25&quot;]/div[@class=&quot;col-lg-6 col-md-12 agr-destroy-padding-right&quot;]/div[@class=&quot;agr-display-inline agr-width-hundred&quot;]/div[@class=&quot;agr-form-input&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>202a605b-ad22-4295-987a-d90f396af0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search_store</value>
+      <webElementGuid>c8a2aa6d-42e0-4289-bbe8-c957bda78617</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_form']/div/div/div[2]/div[2]/div[2]/div/span/span/span/ul</value>
+      <webElementGuid>217839b4-e495-4257-aefe-b51d2aaa3ad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[3]/following::ul[1]</value>
+      <webElementGuid>e9081b0f-3ba2-4c73-b4e1-01f30296419f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::ul[1]</value>
+      <webElementGuid>23aa47b5-0f94-4cc0-b3c1-625000e85566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Unit'])[1]/preceding::ul[1]</value>
+      <webElementGuid>ef475e66-eedc-4f05-a018-36b9bbb9582b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[2]/preceding::ul[2]</value>
+      <webElementGuid>c73f377e-e82a-4b03-acea-2b8b9ed91bcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/span/span/span/ul</value>
+      <webElementGuid>33ca15fa-e1db-4361-a5f3-0545ef3cee13</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

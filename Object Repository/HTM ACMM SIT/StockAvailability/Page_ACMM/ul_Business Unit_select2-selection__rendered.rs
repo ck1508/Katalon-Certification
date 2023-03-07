@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Business Unit_select2-selection__rendered</name>
+   <tag></tag>
+   <elementGuidId>732e6906-c77e-48da-9206-0754d62efd0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--focus > span.selection > span.select2-selection.select2-selection--multiple > ul.select2-selection__rendered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search_form']/div/div/div[3]/div/div[2]/div/span/span/span/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>6a375b41-89fc-4453-b98b-e0719e880a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>9cac91fe-1070-4fe9-aabd-fee119ea6234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_form&quot;)/div[@class=&quot;agr-filter-form-cotainer row agr-destroy-margin&quot;]/div[@class=&quot;agr-width-hundred&quot;]/div[@class=&quot;row agr-destroy-margin agr-margin-last-row agr-padding-25&quot;]/div[@class=&quot;col-lg-6 col-md-12 agr-destroy-padding-left&quot;]/div[@class=&quot;agr-display-inline agr-width-hundred&quot;]/div[@class=&quot;agr-form-input&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--focus&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--multiple&quot;]/ul[@class=&quot;select2-selection__rendered&quot;]</value>
+      <webElementGuid>db2ae471-8732-4017-99b0-ece5a99718f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_form']/div/div/div[3]/div/div[2]/div/span/span/span/ul</value>
+      <webElementGuid>611ffe73-58d0-4370-b1ef-563f9afdf139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Unit'])[1]/following::ul[1]</value>
+      <webElementGuid>8fa254e1-9c5a-451c-b848-474968f1f7fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store'])[3]/following::ul[2]</value>
+      <webElementGuid>f3233f12-1106-4fe9-b25b-1baac6de0261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Region'])[2]/preceding::ul[1]</value>
+      <webElementGuid>341174fe-1543-4f28-adcc-a2fedcca0208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price Zone'])[2]/preceding::ul[2]</value>
+      <webElementGuid>9977823c-0309-4ce7-b166-79f1c14952e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/span/span/span/ul</value>
+      <webElementGuid>dc3801ee-aa98-4eba-9eea-abac53207926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
