@@ -57,7 +57,7 @@
       <name>businessUnit</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>'00'</defaultValue>
       <description></description>
       <id>59a00158-f899-4265-b75f-2cc5661c6a8f</id>
       <masked>false</masked>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Return Number 68 is saved successfully</name>
+   <tag></tag>
+   <elementGuidId>88ca35e4-9130-4899-aaef-a5a0cb77f920</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toaster']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.title.pri-fnt2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27d135c4-7652-4b30-ac78-63d795b23671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title pri-fnt2</value>
+      <webElementGuid>e053d99b-6b77-4f47-b914-1024e183aa79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Return Number [68] is saved successfully!</value>
+      <webElementGuid>326fe3e2-25f1-4f02-a257-5bfa8cbbb957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toaster&quot;)/div[@class=&quot;agr-toast-Style alert alert-success alert-dismissible&quot;]/span[@class=&quot;title pri-fnt2&quot;]</value>
+      <webElementGuid>6619a891-67ce-4037-8486-dfab1474f893</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toaster']/div/span[2]</value>
+      <webElementGuid>91743dc8-7603-44f4-be18-5b2a1c8aa4da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EXCHANGE'])[1]/following::span[4]</value>
+      <webElementGuid>46c332a2-52f3-4ed4-8928-83dd8a257c06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expr - expiry related'])[1]/following::span[4]</value>
+      <webElementGuid>c76b76d4-3cf3-498d-b2dd-8df992118c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Return Number [68] is saved successfully!']/parent::*</value>
+      <webElementGuid>941e602e-a4ae-4811-85e2-9ee531569d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[41]/div/span[2]</value>
+      <webElementGuid>9cdac1ec-2830-4369-bc15-2d6867266715</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Return Number [68] is saved successfully!' or . = 'Return Number [68] is saved successfully!')]</value>
+      <webElementGuid>19b63105-cc81-4cea-8f23-8a9b2875d4d3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

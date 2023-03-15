@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Run</name>
+   <name>CollectGoodsReturn</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>deaf3282-f0e8-40f1-b995-63af2abdce36</testCaseGuid>
+   <testCaseGuid>212ccfed-79e9-42ec-913a-3823a1114800</testCaseGuid>
 </TestCaseEntity>

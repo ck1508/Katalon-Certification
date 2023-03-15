@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Status_agr-display-inline icon-edit tpz-f_5c6252</name>
+   <tag></tag>
+   <elementGuidId>60a8f256-007a-409a-8a08-514afc819104</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;result&quot;]/tbody/tr[1]/td[24]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.agr-display-inline.icon-edit.tpz-fnt3.agr-margin-right-5.action-edit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1fbe2782-b3c6-451e-9d65-6863338224d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>agr-display-inline icon-edit tpz-fnt3 agr-margin-right-5 action-edit</value>
+      <webElementGuid>546c388a-bfb7-446d-9551-61b49f5355e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;result&quot;)/tbody[1]/tr[1]/td[@class=&quot;pri-fnt3 datatable-cell text-center skip-view&quot;]/a[@class=&quot;input-link agr-display-inline&quot;]/i[@class=&quot;agr-display-inline icon-edit tpz-fnt3 agr-margin-right-5 action-edit&quot;]</value>
+      <webElementGuid>e4608129-f7a6-45b7-8a6e-2abf57e72f48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='result']/tbody/tr/td[2]/a/i</value>
+      <webElementGuid>fd1846fb-82cf-491e-b09c-e63719de5873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/a/i</value>
+      <webElementGuid>4ccc4c3e-4128-4e6d-8e95-08722f5a6cb8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

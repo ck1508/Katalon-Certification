@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_UNIT_text-right</name>
+   <tag></tag>
+   <elementGuidId>7b4a1180-c63e-4ac2-8c7b-cdc1f9011ccc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tbody > tr > td.text-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='goods_return_checklist']/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bf4c5e5f-ee2c-4377-bc2b-3347f76f9f83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-right</value>
+      <webElementGuid>35c7b44a-85ff-4b7b-a342-4fdd050ce0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;goods_return_checklist&quot;)/tbody[1]/tr[1]/td[@class=&quot;text-right&quot;]</value>
+      <webElementGuid>6dacc314-9deb-47f7-a6b0-476ec0a36eb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='goods_return_checklist']/tbody/tr/td[4]</value>
+      <webElementGuid>f5a67552-5476-4180-b0b3-30815ecfd388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UNIT'])[1]/following::td[1]</value>
+      <webElementGuid>5ea644a1-07d1-4aa3-872a-bc9961f9edab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COCONUT SHAMPOO D'])[1]/following::td[2]</value>
+      <webElementGuid>422f2b3f-39e8-4306-ae73-5ace7c42fda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost Lookup'])[1]/preceding::td[7]</value>
+      <webElementGuid>9c217b0b-57d1-4195-bf88-be1a9c39c33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advanced Search'])[2]/preceding::td[9]</value>
+      <webElementGuid>f54a04b2-aa97-4002-9650-c11e778f19fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>969de970-a0e5-43e2-85c6-cfcc9a7f2233</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

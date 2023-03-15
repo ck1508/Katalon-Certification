@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "06EF0B82105756C0C183790F38F35C64",
+  "keywordFileContentHash": "01820F7E46DC93D6F7ED1BF6BDABD5C8",
   "keywordClasses": [
     {
       "name": "functions.Print",
@@ -38,6 +38,11 @@
         },
         {
           "name": "PrintStockAvailability",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "PrintErrorMessage",
           "parameters": [],
           "javadoc": ""
         }

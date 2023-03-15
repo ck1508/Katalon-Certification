@@ -81,6 +81,7 @@ try {
 
 		}
 		
+		
 		if (priceZone.length() == 1) {
 			
 			WebUI.setText(findTestObject('Object Repository/HTM ACMM SIT/StockAvailability/Page_ACMM/input_Price Zone_select2-search__field'),

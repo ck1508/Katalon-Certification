@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_UNIT_icon-calendar plc-fnt3 agr-margin-right-5</name>
+   <tag></tag>
+   <elementGuidId>498756e0-8189-45b3-a40d-1ee2d5a21336</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-calendar.plc-fnt3.agr-margin-right-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='goods_return_checklist']/tbody/tr/td[6]/div/div/span/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8e2958cc-80e3-4f0b-9f71-86f5bae626c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-calendar plc-fnt3 agr-margin-right-5</value>
+      <webElementGuid>3937ec4a-066d-4e40-8c1b-b26a9e858720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;goods_return_checklist&quot;)/tbody[1]/tr[1]/td[@class=&quot;text-left&quot;]/div[@class=&quot;form-date&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;agr-float-right agr-display-inline agr-icon-datepicker&quot;]/i[@class=&quot;icon-calendar plc-fnt3 agr-margin-right-5&quot;]</value>
+      <webElementGuid>48671479-b96d-40b8-a23b-25eb55ad12e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='goods_return_checklist']/tbody/tr/td[6]/div/div/span/i</value>
+      <webElementGuid>d938b337-d45a-4e53-9908-c88c04eab34b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/div/span/i</value>
+      <webElementGuid>3b053ea6-41bf-46ed-b6ef-fd7f798b16c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
